@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **devarshbhalara3072@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CKiuBaBWlMte6A8DHlWO4MynKzEadDrK/view?usp=drivesdk](https://drive.google.com/file/d/1CKiuBaBWlMte6A8DHlWO4MynKzEadDrK/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CKiuBaBWlMte6A8DHlWO4MynKzEadDrK/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
