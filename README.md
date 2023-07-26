@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **devarshbhalara3072@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1CKiuBaBWlMte6A8DHlWO4MynKzEadDrK/view?usp=drivesdk](https://drive.google.com/file/d/1CKiuBaBWlMte6A8DHlWO4MynKzEadDrK/view?usp=drivesdk)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/devarsh-bhalara-382421185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devarsh-bhalara-382421185" height="30" width="40" /></a>
