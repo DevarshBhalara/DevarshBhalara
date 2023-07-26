@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Spotify Clone](https://github.com/DevarshBhalara/spotify-ios)
 
-- 🌱 I’m currently learning **kotlin, iOS, Android,**
+- 🌱 I’m currently learning **kotlin, iOS, Android**
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/DevarshBhalara?tab=repositories)
 
