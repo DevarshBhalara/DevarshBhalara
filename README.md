@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Bhagavad Geeta App](https://github.com/DevarshBhalara/BhagavadGita-app)
 
-- 🌱 I’m currently learning **kotlin, iOS, Android**
+- 🌱 I’m currently learning **SwiftUI, jetpack compose**
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/DevarshBhalara?tab=repositories)
 
