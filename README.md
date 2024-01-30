@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devarsh Bhalara</h1>
 <h3 align="center">Android | iOS Developer</h3>
 
-- 🔭 I’m currently working on [Bhagavad Geeta App](https://github.com/DevarshBhalara/BhagavadGita-app)
+- 🔭 Recently i have completed [Bhagavad Geeta App](https://github.com/DevarshBhalara/BhagavadGita-app)
 
 - 🌱 I’m currently learning **SwiftUI, jetpack compose**
 
