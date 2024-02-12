@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/DevarshBhalara?tab=repositories)
 
-- 💬 Ask me about **Android, iOS, kotlin, Java, Swift, PHP, MySQL, **
+- 💬 Ask me about **Android, iOS, kotlin, Java, Swift, PHP, MySQL**
 
 - 📫 How to reach me **devarshbhalara3072@gmail.com**
 
