@@ -3,11 +3,11 @@
 
 - 🔭 Recently i have completed [Bhagavad Geeta App](https://github.com/DevarshBhalara/BhagavadGita-app)
 
-- 🌱 I’m currently learning **SwiftUI, jetpack compose**
+- 🌱 I’m currently learning **Jetpack Compose, SwiftUI**
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/DevarshBhalara?tab=repositories)
 
-- 💬 Ask me about **Android, iOS, PHP, MySQL, kotlin, swift**
+- 💬 Ask me about **Android, iOS, kotlin, Java, Swift, PHP, MySQL, **
 
 - 📫 How to reach me **devarshbhalara3072@gmail.com**
 
