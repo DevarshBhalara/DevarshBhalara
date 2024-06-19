@@ -3,7 +3,7 @@
 
 - 🔭 Recently i have completed [Bhagavad Geeta App](https://github.com/DevarshBhalara/BhagavadGita-app) & [Bhagavad Geeta App - iOS](https://github.com/DevarshBhalara/BhagavadGeeta-App-iOS)
 
-- 🌱 I’m currently learning **Jetpack Compose, SwiftUI**
+- 🌱 I’m currently learning **Jetpack Compose, Kotlin Multiplatform & SwiftUI**
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/DevarshBhalara?tab=repositories)
 
