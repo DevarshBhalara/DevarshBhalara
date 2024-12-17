@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Devarsh Bhalara</h1>
 <h3 align="center">Android | iOS Developer</h3>
 
-- 🔭 Recently i have completed [Notes App in KMP](https://github.com/DevarshBhalara/notes-kmp)
+- 🔭 Recently i have completed [Book Library in CMP](https://github.com/DevarshBhalara/cmp_books_library)
 
-- 🌱 I’m currently learning **Jetpack Compose, Kotlin Multiplatform & SwiftUI**
+- 🌱 I’m currently learning **Jetpack Compose, Kotlin Multiplatform, CMP & SwiftUI**
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/DevarshBhalara?tab=repositories)
 
