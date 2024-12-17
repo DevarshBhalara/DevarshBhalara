@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **devarshbhalara3072@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CKiuBaBWlMte6A8DHlWO4MynKzEadDrK/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10suVsBzBViLO1fiZ9JyJEhZd_KYz8bOO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
